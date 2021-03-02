@@ -1,3 +1,12 @@
+/*
+Copyright 2006, Yago Rubio Sanfiz
+
+Copying and distribution of this file, with or without modification,
+are permited in any medium without royalty, provided the copyright
+and this notice are preserved.This file is offered as - is without
+any warranty.
+*/
+
 #if !defined(AFX_OPERARIOSSET_H__808E850D_9E85_47F4_949C_C30568947C9D__INCLUDED_)
 #define AFX_OPERARIOSSET_H__808E850D_9E85_47F4_949C_C30568947C9D__INCLUDED_
 

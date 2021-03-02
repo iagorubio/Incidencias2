@@ -1,3 +1,12 @@
+/*
+Copyright 2006, Yago Rubio Sanfiz
+
+Copying and distribution of this file, with or without modification,
+are permited in any medium without royalty, provided the copyright
+and this notice are preserved.This file is offered as - is without
+any warranty.
+*/
+
 // Incidencias2View.h : interface of the CIncidencias2View class
 //
 /////////////////////////////////////////////////////////////////////////////

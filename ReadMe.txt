@@ -1,4 +1,23 @@
 ========================================================================
+                           Incidencias2
+========================================================================
+Sencillo programa de Gestión y seguimiento de incidencias de soporte 
+técnico para Windows.
+
+Está hecho con C++, MFC y Dao.
+
+se creó en 2006 y es de libre uso y distribución bajo licencia
+GNU All-Permisive License:
+
+Copyright 2006, Yago Rubio Sanfiz
+
+Copying and distribution of this program, with or without modification, 
+are permited in any medium without royalty, provided the copyright
+and this notice are preserved. This program is offered as-is without
+any warranty.
+
+
+========================================================================
        MICROSOFT FOUNDATION CLASS LIBRARY : Incidencias2
 ========================================================================
 

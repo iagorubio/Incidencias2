@@ -1,3 +1,12 @@
+/*
+Copyright 2006, Yago Rubio Sanfiz
+
+Copying and distribution of this file, with or without modification,
+are permited in any medium without royalty, provided the copyright
+and this notice are preserved.This file is offered as - is without
+any warranty.
+*/
+
 #if !defined(AFX_ONEFIELDDBDIALOG_H__A1F3DFD1_E195_48C0_B40A_C5917D3C83C8__INCLUDED_)
 #define AFX_ONEFIELDDBDIALOG_H__A1F3DFD1_E195_48C0_B40A_C5917D3C83C8__INCLUDED_
 

@@ -1,3 +1,12 @@
+/*
+Copyright 2006, Yago Rubio Sanfiz
+
+Copying and distribution of this file, with or without modification,
+are permited in any medium without royalty, provided the copyright
+and this notice are preserved.This file is offered as - is without
+any warranty.
+*/
+
 #if !defined(AFX_CALENDARDIALOG_H__900AD9D2_4F38_4291_89B3_9E7181F4C4E3__INCLUDED_)
 #define AFX_CALENDARDIALOG_H__900AD9D2_4F38_4291_89B3_9E7181F4C4E3__INCLUDED_
 

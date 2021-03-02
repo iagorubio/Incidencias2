@@ -150,4 +150,7 @@
       <Filter>Resource Files</Filter>
     </CustomBuild>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bd1.mdb" />
+  </ItemGroup>
 </Project>

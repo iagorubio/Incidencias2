@@ -1,3 +1,11 @@
+/*
+Copyright 2006, Yago Rubio Sanfiz
+
+Copying and distribution of this file, with or without modification,
+are permited in any medium without royalty, provided the copyright
+and this notice are preserved.This file is offered as - is without
+any warranty.
+*/
 #if !defined(AFX_COMUNICACIONESSET_H__431EFC41_6057_4E13_862A_31B49B2F4164__INCLUDED_)
 #define AFX_COMUNICACIONESSET_H__431EFC41_6057_4E13_862A_31B49B2F4164__INCLUDED_
 
